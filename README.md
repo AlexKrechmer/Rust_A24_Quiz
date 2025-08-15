@@ -29,7 +29,7 @@ An **interactive command-line quiz game built in Rust** to test your A24 movie k
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/<yourusername>/a24_quiz.git
+git clone https://github.com/AlexKrechmer/a24_quiz.git
 cd a24_quiz
 Build and run with Cargo:
 
