@@ -32,11 +32,8 @@ An **interactive command-line quiz game built in Rust** to test your A24 movie k
 git clone https://github.com/AlexKrechmer/a24_quiz.git
 cd a24_quiz
 Build and run with Cargo:
-
-bash
-Copy
-Edit
 cargo run
+
 How to Play
 Watch the cinematic curtain and spotlight open.
 
